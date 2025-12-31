@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Calculator App - Auto Deploy Test - Good!</title>
+    <title>Calculator App - Auto Deploy Test - Very Good!</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
