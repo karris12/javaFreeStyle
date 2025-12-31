@@ -3,7 +3,7 @@
 A demonstration of CI/CD using Jenkins Freestyle Project with Maven and JaCoCo code coverage.
 
 ## Features
-- ✅ Java Servlet-based Calculator
+- ✅ Java Servlet-based and Calculator
 - ✅ Maven build automation
 - ✅ JUnit unit tests
 - ✅ JaCoCo code coverage reporting
